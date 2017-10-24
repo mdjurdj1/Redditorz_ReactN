@@ -1,4 +1,4 @@
-ReactNativeRedditReader
+React Reddit Reader
 ======================
 
 [Reddit](https://www.reddit.com/) reader for iOS, made with [React-Native](https://github.com/facebook/react-native).
